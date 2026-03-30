@@ -82,3 +82,13 @@ Strong authentication is critical in preventing unauthorized access and protecti
 - Troubleshooting and security are closely related—understanding system behavior helps identify issues faster  
 
 ---
+
+## Defensive Security Concepts
+
+### Key Points
+- Monitoring systems helps detect suspicious activity  
+- Logs provide visibility into system behavior  
+- Security teams analyze alerts to identify threats  
+
+### What I Learned
+Understanding how to monitor and analyze system activity is a key part of defensive security and SOC roles.
